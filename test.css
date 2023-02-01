@@ -1,0 +1,25 @@
+body{
+    background-color: bisque;
+}
+#FirstCube{
+    width: 250px;
+    height: 250px;
+    position: relative;
+    border: 2px solid black;
+}
+#SecondCube{
+    width: 250px;
+    height: 250px;
+    position: relative;
+    border: 2px solid black;
+    bottom: 253.8px;
+    left: 253px;
+}
+#ThirdCube{
+    width: 250px;
+    height: 250px;
+    position: relative;
+    border: 2px solid black;
+    bottom: 507.7px;
+    left: 506px;
+}
