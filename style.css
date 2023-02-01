@@ -104,11 +104,11 @@ hr{
 #title{
     font-family: monospace, Geneva, Tahoma, sans-serif;
     margin-top: 0px;
-    text-align: center;
+    margin-left: 45%;
 }
 #damn{
     position: absolute;
-    left: 40%;
+    left: 38%;
 }
 #contactPanel{
     margin: 0px,0px,0px,0px;
@@ -138,13 +138,13 @@ li{
 }
 #tableSkills1{
     position: absolute;
-    left: 300px;
+    left: 200px;
 }
 #tableSkills2{
     position: absolute;
-    left: 1150px;
+    left: 1100px;
 }
 #tableSkills3{
     position: absolute;
-    left: 750px;
+    left: 650px;
 }
