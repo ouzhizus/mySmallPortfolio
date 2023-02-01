@@ -30,6 +30,9 @@ hr{
     width: 20%;
     border-style: dashed;
 }
+#topSide{
+    margin-bottom: 0px;
+}
 #highlightText{
     color:rgb(6, 102, 228);
 }
@@ -74,13 +77,14 @@ hr{
     margin-left: 470px;
 }
 #bottomSide{
+    margin-top: 0px;
     width: 100%;
     height: auto;
-    border: 4px solid gainsboro;
+    border-top: 6px solid gainsboro;;
 }
 #mySkills{
     position: relative;
-    top: 10px;
+    top: 15px;
     padding: 0px;
 }
 #keySkills{
@@ -92,7 +96,10 @@ hr{
     background-color: rgba(29, 194, 215, 0.16);
     bottom: 100%;
     height: 60px;
-    border: 4px solid gainsboro;
+    border: 6px solid gainsboro;
+    border-left: none;
+    border-bottom: none;
+    border-right: none;
 }
 #title{
     font-family: monospace, Geneva, Tahoma, sans-serif;
@@ -105,12 +112,17 @@ hr{
 }
 #contactPanel{
     margin: 0px,0px,0px,0px;
+    border-left: none;
+    border-bottom: none;
+    border-right: none;
 }
 #title{
+    font-size: 20px;
     margin-bottom: 10px;
 }
 a{
     font-family: monospace, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
     margin-top: 0px;
     margin-left: 55px;
 }
